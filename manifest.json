@@ -1,0 +1,38 @@
+{
+  "name": "Monitor peri-operatorio · Rata Kindling",
+  "short_name": "Monitor Rata",
+  "description": "Registro de sedación, vitales, medicamentos y alta en cirugía estereotáxica de rata (modelo Kindling).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1f5",
+  "theme_color": "#1F3864",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": [
+    "medical",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
